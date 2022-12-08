@@ -1,25 +1,23 @@
-# Andrei Karnilovich
+# **Andrei Karnilovich**
 
-## Contacts
+## **_Contacts:_**
 
 1. email: andreykarnilovi4@gmail.com
 2. Discord: Set#2514
 
 ---
 
-## Tech Skills
+## **_Tech Skills:_**
 
 - HTML5
 - CSS3
 - GIT
 - WebPack
 - JavaScript
-- React.js
-- Node.js
 
 ---
 
-## Soft Skills
+## **_Soft Skills:_**
 
 - Scrum
 - Agile
@@ -28,7 +26,7 @@
 
 ---
 
-## Code Exaple
+## **_Code Exaple:_**
 
 ```
 @section('contents')
@@ -46,7 +44,22 @@
 
 ---
 
-## Projects
+## **_Projects:_**
 
-1. [Barber Shop](https://barbershop-pl.goit.global/)
-2. [CryptoHub](https://cryptohub.goit.global/)
+1. [My first work](https://chic-fudge-bd6368.netlify.app)
+
+---
+
+## **_Education:_**
+
+### _GGPTK k/h Grodno_
+
+#### **September 2009 - 2012 | Belarus**
+
+---
+
+## **_Languages:_**
+
+- russian - native speaker
+- polish - B2
+- english - A1
