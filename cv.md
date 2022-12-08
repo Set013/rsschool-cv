@@ -50,6 +50,12 @@
 
 ---
 
+## **_Work Experience_**
+
+Courses GO IT - 11.22-12.22
+
+---
+
 ## **_Education:_**
 
 ### _GGPTK k/h Grodno_
